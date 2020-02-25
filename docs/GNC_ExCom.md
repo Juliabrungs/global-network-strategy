@@ -8,7 +8,6 @@ The term shall be one year, and the Executive Committee shall be appointed annua
 
 This group is composed by:
 
-* Liz Oyange (CC Kenya)
 * Lisette Kalshoven (CC Netherlands)
 * Jorge Gemetto (CC Uruguay)
 * Franco Giadana (CC Argentina)
